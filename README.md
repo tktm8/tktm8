@@ -12,7 +12,7 @@
 
 ![graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tktm8&theme=nord_dark)
 
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=Tim-8&theme=merko)](https://github.com/ryo-ma/github-profile-trophy)-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tim-8&theme=merko)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tktm8&theme=nord&margin-w=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
